@@ -1,0 +1,20 @@
+@import "./var.scss";
+.bgYellow {
+  background-color: $yellow1;
+}
+.fontBlack {
+  color: $gray1;
+}
+.fontWhite {
+  color: $white1;
+}
+// using the variables for colors here with dollar symbol
+.pad10 {
+  padding: 10px;
+}
+.width100 {
+  width: 100px;
+}
+.radius15 {
+  border-radius: 15px;
+}
